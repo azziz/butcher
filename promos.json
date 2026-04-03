@@ -3,21 +3,21 @@
     "name": "STEAK",
     "price": "10€/kg",
     "info": "Promo اليوم",
-    "image": "https://raw.githubusercontent.com/USER/butcher-promos/main/images/steak.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/steak.jpg",
     "zone": "LEFT"
   },
   {
     "name": "POULET",
     "price": "6.50€/kg",
     "info": "Arrivage frais",
-    "image": "https://raw.githubusercontent.com/USER/butcher-promos/main/images/poulet.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/poulet.jpg",
     "zone": "CENTER"
   },
   {
     "name": "COTE BOEUF",
     "price": "15€/kg",
     "info": "🔥 Promo",
-    "image": "https://raw.githubusercontent.com/USER/butcher-promos/main/images/boeuf.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/boeuf.jpg",
     "zone": "RIGHT"
   }
 ]
