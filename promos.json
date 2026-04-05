@@ -7,6 +7,13 @@
     "zone": "LEFT"
   },
   {
+    "name": "JARRET",
+    "price": "10€/kg",
+    "info": "Promo اليوم",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/steak.jpg",
+    "zone": "LEFT"
+  },
+  {
     "name": "POULET",
     "price": "6.50€/kg",
     "info": "Arrivage frais",
@@ -14,7 +21,21 @@
     "zone": "CENTER"
   },
   {
+    "name": "CUISSE DE POULET",
+    "price": "6.50€/kg",
+    "info": "Arrivage frais",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/poulet.jpg",
+    "zone": "CENTER"
+  },
+  {
     "name": "COTE BOEUF",
+    "price": "15€/kg",
+    "info": "🔥 Promo",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/boeuf.jpg",
+    "zone": "RIGHT"
+  },
+   {
+    "name": "COTE VEAU",
     "price": "15€/kg",
     "info": "🔥 Promo",
     "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/boeuf.jpg",
