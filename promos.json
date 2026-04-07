@@ -3,42 +3,42 @@
     "name": "STEAK",
     "price": "10€/kg",
     "info": "Promo اليوم",
-    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/steak.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/cuisse_poulet.jpg",
     "zone": "LEFT"
   },
   {
     "name": "JARRET",
     "price": "10€/kg",
     "info": "Promo اليوم",
-    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/steak.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/poulet_entier.jpg",
     "zone": "LEFT"
   },
   {
     "name": "POULET",
     "price": "6.50€/kg",
     "info": "Arrivage frais",
-    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/poulet.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/colis_de_boucher.jpg",
     "zone": "CENTER"
   },
   {
     "name": "CUISSE DE POULET",
     "price": "6.50€/kg",
     "info": "Arrivage frais",
-    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/poulet.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/blanc_de_poulet.jpg",
     "zone": "CENTER"
   },
   {
     "name": "COTE BOEUF",
     "price": "15€/kg",
     "info": "🔥 Promo",
-    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/boeuf.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/piéce_de_boucher.jpg",
     "zone": "RIGHT"
   },
    {
     "name": "COTE VEAU",
     "price": "15€/kg",
     "info": "🔥 Promo",
-    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/boeuf.jpg",
+    "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/blanc_de_poulet.jpg",
     "zone": "RIGHT"
   }
 ]
