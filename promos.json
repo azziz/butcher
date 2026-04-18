@@ -10,6 +10,20 @@
       "info": "Promo",
       "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/cuisses_poulet.jpg",
       "zone": "LEFT"
+    },
+    {
+      "name": "POULET",
+      "price": "6.50€/kg",
+      "info": "Arrivage",
+      "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/poulet_entier.jpg",
+      "zone": "CENTER"
+    },
+    {
+      "name": "COTE BOEUF",
+      "price": "15€/kg",
+      "info": "🔥 Promo",
+      "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/colis_de_boucher.jpg",
+      "zone": "RIGHT"
     }
   ]
 }
