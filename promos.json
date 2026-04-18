@@ -1,4 +1,4 @@
-  {
+{
   "settings": {
     "rotation": 5,
     "animation": 12
@@ -8,9 +8,8 @@
       "name": "STEAK",
       "price": "10€/kg",
       "info": "Promo",
-      "image": "https://...",
+      "image": "https://raw.githubusercontent.com/azziz/butcher/main/images/cuisses_poulet.jpg",
       "zone": "LEFT"
     }
   ]
 }
-
